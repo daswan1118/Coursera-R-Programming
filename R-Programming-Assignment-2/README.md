@@ -1,6 +1,5 @@
 # Coursera R Programming Week 3 Assignment
 
-
 ### Introduction
 
 This second programming assignment will require you to write an R
